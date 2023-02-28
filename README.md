@@ -9,5 +9,5 @@ In this project, I trained multible machine learning models using 2D landmarks a
 
 
 # 🔗 Links
-![image](https://user-images.githubusercontent.com/94635686/221717497-daa51b4b-e7e1-4b15-90d3-a3f7ffb3f0ca.png)
+![image](https://www.linkedin.com/in/zyad-samy-b2b4b4191/)
 
