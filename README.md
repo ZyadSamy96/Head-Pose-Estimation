@@ -6,10 +6,24 @@ In this project, I trained multible machine learning models using 2D landmarks a
 
 
 
+## Used Dependencies 
+- numpy
+- os
+- cv2
+- glob
+- random
+- scipy.io
+- Math 
+- Pathlib
+- Pandas 
+- Mediapipe
+- Sklearn
+
+
+
 
 
 # 🔗 Links
-[![image](https://user-images.githubusercontent.com/94635686/221718529-62f90d01-d7df-4fa0-8805-1117af406517.png)](https://www.linkedin.com/in/zyad-samy-b2b4b4191/)
- ![image](https://user-images.githubusercontent.com/94635686/221719442-0f295fc5-a135-44e6-b15f-90dbd787086b.png)
+[![image](https://user-images.githubusercontent.com/94635686/221719442-0f295fc5-a135-44e6-b15f-90dbd787086b.png)](https://www.linkedin.com/in/zyad-samy-b2b4b4191/)
 
 
